@@ -1,0 +1,21 @@
+# Heart Disease Classification App - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Data Science
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Web Interface
+gradio>=4.0.0
+
+# Jupyter (for notebook)
+jupyter>=1.0.0
+ipykernel>=6.0.0
