@@ -148,12 +148,4 @@ MIT License - feel free to use this project for learning and portfolio purposes.
 
 ---
 
-## Contact
-
-- **GitHub:** [Your GitHub]
-- **LinkedIn:** [Your LinkedIn]
-- **Email:** [Your Email]
-
----
-
 *Built with Python and Gradio*
